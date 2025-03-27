@@ -9,7 +9,7 @@ I am a **passionate Data Engineer** with aspirations in **Data Science and Softw
   - Worked extensively with **Azure Synapse Analytics** for data warehousing and large-scale data transformations.  
   - Automated **data processing workflows**, improving efficiency by **80%**.  
 
-- **Project Engineer Apprentice | Wipro**  
+- **Data Engineer Trainee | Wipro**  
   - Focused on **database management and optimization** using **Oracle, PostgreSQL, and T-SQL**.  
   - Developed **data migration strategies** for enterprise clients.  
 
@@ -19,10 +19,10 @@ I am a **passionate Data Engineer** with aspirations in **Data Science and Softw
 📅 **Expected Graduation: May 2025**  
 
 ## 🔧 Technical Skills  
-- **Programming:** Python, Java, TypeScript, SQL, Scala  
-- **Data & Cloud:** Azure Data Factory, Synapse, Databricks, Snowflake, AWS, PySpark  
-- **Databases:** PostgreSQL, MySQL, DynamoDB, Hive  
-- **Machine Learning:** TensorFlow, PyTorch, Scikit-Learn  
+- **Programming:** Python, SQL, Java, TypeScript
+- **Data & Cloud:** Azure Data Factory, Synapse, Databricks, Snowflake, AWS, PySpark, Hadoop, Kafka
+- **Databases:** PostgreSQL, MySQL, DynamoDB, Redis, MongoDB 
+- **Machine Learning:** TensorFlow, PyTorch, Scikit-Learn, MatplotLib
 - **Other:** REST APIs, Agile, Git, CI/CD  
 
 ## 📫 Let's Connect!  
